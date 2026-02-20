@@ -134,12 +134,6 @@ https://github.com/yourusername
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Future Improvements
 
 Leaderboard system
