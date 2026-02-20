@@ -8,7 +8,7 @@ The system is designed with a modular backend and a structured frontend, making 
 
 ## Live Demo
 
-https://quizapp-3hrf.onrender.com
+https://quiziq-mxd5.onrender.com/
 
 ---
 
